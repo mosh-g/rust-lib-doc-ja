@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["derived_property",""],["property",""]]});
